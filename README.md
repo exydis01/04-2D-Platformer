@@ -1,8 +1,6 @@
-# Exercise-04d-Save-and-Load
+# Project-04d-Save-and-Load
 
-Exercise for MSCH-C220
-
-The fourth exercise for the 2D Platformer project, exploring save and load (in two projects).
+Project for MSCH-C220
 
 ## Implementation
 
